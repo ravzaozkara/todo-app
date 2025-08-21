@@ -1,0 +1,8 @@
+# her satır python paketi ve versiyonunu belirtir
+fastapi==0.104.1
+
+# FastAPI bir framework, Uvicorn ise onu çalıştıran server
+uvicorn==0.24.0
+
+# Pythondan PostgreSQL veritabanına bağlanmak için
+psycopg2-binary==2.9.7
